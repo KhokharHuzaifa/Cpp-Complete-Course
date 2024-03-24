@@ -15,6 +15,7 @@ if (20 > 18) {
   cout << "20 is greater than 18";
 }
 
+//Example using varibales
 int x = 20;
 int y = 18;
 if (x > y) {
