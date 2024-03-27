@@ -5,7 +5,9 @@ variable = (condition) ? expressionTrue : expressionFalse;
 
 // Instead of writing:
 // Example
-int time = 20;
+int time = 20;if (time < 18) {
+  cout << "Good day.";
+
 // Example
 int time = 20;
 string result = (time < 18) ? "Good day." : "Good evening.";
