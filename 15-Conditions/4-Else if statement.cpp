@@ -13,3 +13,15 @@ else{
       // block of code to be executed if the condition is false
 }
 
+// Example
+int time = 20;
+if (time < 18) {
+  cout << "Good evening.";
+} else if(time > 18) {
+  cout << "Good morning.";
+}
+else {
+     cout << "Good night.";
+}
+// Outputs "Good morning."
+}
