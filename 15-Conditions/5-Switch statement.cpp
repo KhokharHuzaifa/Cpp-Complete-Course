@@ -46,3 +46,23 @@ switch (day) {
     break;
 }
 // Outputs "Thursday" (day 4)
+
+// A break can save a lot of execution time because it "ignores" the execution of all the rest of the code in the 
+// switch block.
+
+// The default keyword specifies some code to run if there is no case match:
+
+// Example 
+
+int day = 4;
+switch (day) {
+  case 6:
+    cout << "Today is Saturday";
+    break;
+  case 7:
+    cout << "Today is Sunday";
+    break;
+  default:
+    cout << "Looking forward to the Weekend";
+}
+// Outputs "Looking forward to the Weekend"
