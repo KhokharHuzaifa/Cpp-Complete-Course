@@ -25,3 +25,8 @@ for (int i = 0; i < 5; i++) {
 
 // Another Example
 // This example will only print even values between 0 and 10:
+
+// Example
+for (int i = 0; i <= 10; i = i + 2) {
+  cout << i << "\n";
+}
