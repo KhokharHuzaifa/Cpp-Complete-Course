@@ -1,5 +1,5 @@
 #include<iostream>
-#include <cma>
+#include <cmat>
 using namespace std;
 int main(){
    cout << atan(60);
