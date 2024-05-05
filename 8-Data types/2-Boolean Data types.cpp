@@ -2,7 +2,7 @@
 
 // When the value is returned, true = 1 and false = 0
 
-// Exa
+// Exam
 bool isCodingFun = true;
 bool isFishTasty = false;
 cout << isCodingFun;  // Outputs 1 (true)
