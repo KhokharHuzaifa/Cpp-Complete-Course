@@ -8,7 +8,7 @@ int main(){
 // Example
 string myString = "Hello";
 cout << myString[0];
-// Outputs H
+// Ou
 
 // This example prints the second character in myString:
 
