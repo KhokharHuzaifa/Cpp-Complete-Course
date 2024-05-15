@@ -2,7 +2,7 @@
 
 // YES / NO
 // ON / OFF
-// TRUE / FALSE
+// TRUE / F
 // For this, C++ has a bool data type, which can take the values true (1) or false (0).
 
 bool isCodingFun = true;
