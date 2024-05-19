@@ -3,5 +3,5 @@
 using namespace std;
 int main(){
    cout << tanh(60);
-// 	Rets the hyperbolic tangent of a double value
+// 	Retus the hyperbolic tangent of a double value
 }
