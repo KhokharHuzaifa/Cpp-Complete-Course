@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 // Use the else statement to specify a block of code to be executed if the condition is false
 
-// Syntax
+// Sy
 if (condition) {
   // block of code to be executed if the condition is true
 } else {
