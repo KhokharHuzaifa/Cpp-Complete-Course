@@ -1,6 +1,6 @@
 // To create a variable, specify the type and assign it a value:
 
-// S
+// Sy
 // type variableName = value;
 // Example
 // Create a variable called myNum of type int and assign it the value 15:
