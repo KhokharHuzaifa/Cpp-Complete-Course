@@ -5,7 +5,7 @@ int x = 10;
 
 // The addition assignment operator (+=) adds a value to a variable:
 
-// Exae
+// Exame
 int x = 10;
 x += 5;
 
