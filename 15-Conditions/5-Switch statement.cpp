@@ -1,4 +1,4 @@
-// Use the swih statement to select one of many code blocks to be executed.
+// Use the swith statement to select one of many code blocks to be executed.
 
 // Syntax
 
