@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 int main(){
-// If you add two nurs, the result will be a number:
+// If you add two numrs, the result will be a number:
 
 // Example
 int x = 10;
