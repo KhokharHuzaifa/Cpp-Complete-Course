@@ -1,4 +1,4 @@
-// Declare M Variables
+// Declare Ma Variables
 // To declare more than one variable of the same type, use a comma-separated list:
 
 // Example
