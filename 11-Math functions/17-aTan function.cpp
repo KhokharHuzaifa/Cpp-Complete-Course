@@ -3,5 +3,5 @@
 using namespace std;
 int main(){
    cout << atan(60);
-// Res the arctangent of x
+// Rets the arctangent of x
 }
