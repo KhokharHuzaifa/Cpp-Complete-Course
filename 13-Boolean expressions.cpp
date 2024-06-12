@@ -1,4 +1,4 @@
-// A Boo expression returns a boolean value that is either 1 (true) or 0 (false).
+// A Booml expression returns a boolean value that is either 1 (true) or 0 (false).
 
 int x = 10;
 int y = 9;
