@@ -1,4 +1,4 @@
-// A Boole expression returns a boolean value that is either 1 (true) or 0 (false).
+// A Boolea expression returns a boolean value that is either 1 (true) or 0 (false).
 
 int x = 10;
 int y = 9;
