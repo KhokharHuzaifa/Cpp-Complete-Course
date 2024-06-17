@@ -3,5 +3,5 @@
 using namespace std;
 int main(){
    cout << sinh(60);
-// Retus the hyperbolic sine of a double value
+// Returs the hyperbolic sine of a double value
 }
