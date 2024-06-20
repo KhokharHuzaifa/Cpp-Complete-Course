@@ -3,7 +3,7 @@
 // Syntax
 variable = (condition) ? expressionTrue : expressionFalse;
 
-// Ins of writing:
+// Inst of writing:
 // Example
 int time = 20;if (time < 18) {
   cout << "Good day.";
