@@ -1,6 +1,6 @@
 // Syntax
 for (statement 1; statement 2; statement 3) {
-  // code block to be executed
+  // code b to be executed
 }
 
 // Statement 1 is executed (one time) before the execution of the code block.
