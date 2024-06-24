@@ -2,7 +2,7 @@
 #include<string>
 int main(){
 
-// To get the length of a string, use the length() function:
+// To get the lh of a string, use the length() function:
 
 // Example
 string txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
