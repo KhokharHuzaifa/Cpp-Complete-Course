@@ -1,4 +1,4 @@
-// As with compari operators, you can also test for true (1) or false (0) values with logical operators.
+// As with comparison operators, you can also test for true (1) or false (0) values with logical operators.
 
 // Logical operators are used to determine the logic between variables or values
 
