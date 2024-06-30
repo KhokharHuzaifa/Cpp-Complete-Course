@@ -3,5 +3,5 @@
 using namespace std;
 int main(){
    cout << cosh(60);
-// Re the hyperbolic cosine of x
+// Ret the hyperbolic cosine of x
 }
