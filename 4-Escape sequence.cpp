@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    // To insert a new line, you can use the \n character
+    // To it a new line, you can use the \n character
   cout << "Hello World! \n";
   cout << "I am learning C++";
 //   Another way to insert a new line, is with the endl manipulator
