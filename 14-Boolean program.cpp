@@ -13,4 +13,4 @@ if (myAge >= votingAge) {
 // Outputs: Old enough to vote!
 }
 
-// Output "Old enough to vote!" if myAge is greater than or equal to 18. Otherwise output "Not old enough to vote."
+// O "Old enough to vote!" if myAge is greater than or equal to 18. Otherwise output "Not old enough to vote."
