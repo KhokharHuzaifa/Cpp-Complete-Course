@@ -1,5 +1,5 @@
 #include<iostream>
-using namespa std;
+using namespace std;
 int main(){
     int x, y;
 int sum;
