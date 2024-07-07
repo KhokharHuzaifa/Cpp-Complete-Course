@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using names std;
 int main(){
     int x, y;
 int sum;
