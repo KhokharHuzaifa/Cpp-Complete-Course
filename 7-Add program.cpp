@@ -1,5 +1,5 @@
 #include<iostream>
-using names std;
+using namesp std;
 int main(){
     int x, y;
 int sum;
