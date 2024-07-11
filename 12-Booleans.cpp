@@ -1,4 +1,4 @@
-// Very o, in programming, you will need a data type that can only have one of two values, like:
+// Very of, in programming, you will need a data type that can only have one of two values, like:
 
 // YES / NO
 // ON / OFF
