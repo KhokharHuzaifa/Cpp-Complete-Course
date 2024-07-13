@@ -1,4 +1,4 @@
-// The cout objet, together with the << operator, is used to output values/print text
+// The cout object, together with the << operator, is used to output values/print text
 #include <iostream>
 using namespace std;
 
