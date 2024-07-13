@@ -1,4 +1,4 @@
-// The cout obt, together with the << operator, is used to output values/print text
+// The cout objt, together with the << operator, is used to output values/print text
 #include <iostream>
 using namespace std;
 
