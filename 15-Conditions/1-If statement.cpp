@@ -3,7 +3,7 @@ using namespace std;
 // main 
 int main(){
 
-//    Use the if state to specify a block of C++ code to be executed if a condition is true. If checks only once
+//    Use the if statement to specify a block of C++ code to be executed if a condition is true. If checks only once
 
 // Syntax
 if (condition) {
