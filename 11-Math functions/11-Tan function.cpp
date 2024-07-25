@@ -3,5 +3,5 @@
 using namespace std;
 int main(){
    cout << tan(45);
-// Returns the tan of an angle 
+// Returns the tang of an angle 
 }
