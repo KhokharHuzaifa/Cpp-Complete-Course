@@ -9,7 +9,7 @@ int x = 10;
 int x = 10;
 x += 5;
 
-// A list of all assignment oper
+// A list of all assignment opera
 =	    x = 5	    x = 5	
 +=	    x += 3	    x = x + 3	
 -=	    x -= 3	    x = x - 3	
