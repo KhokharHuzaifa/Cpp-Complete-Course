@@ -1,4 +1,4 @@
-// Declare Many Variab
+// Declare Many Variabl
 // To declare more than one variable of the same type, use a comma-separated list:
 
 // Example
