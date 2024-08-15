@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(){
+int m(){
     int myAge = 25;
 int votingAge = 18;
 
