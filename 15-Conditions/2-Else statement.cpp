@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-// Use the else statement to specify a block of code to be executed if the condition is false
+// Use the ese statement to specify a block of code to be executed if the condition is false
 
 // Syntax
 if (condition) {
