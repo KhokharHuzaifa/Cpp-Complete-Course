@@ -1,6 +1,6 @@
 // A boolean data type is declared with the bool keyword and can only take the values true or false.
 
-// When the value is returned, true = 1 and false = 0
+// When the v is returned, true = 1 and false = 0
 
 // Example
 bool isCodingFun = true;
